@@ -32,8 +32,8 @@ This is a simple currency converter application built using React. It allows use
 4. Start the development server:
 
    ```bash
-   npm start
-5. Open http://localhost:3000 in your browser to view the application.
+   npm run dev
+5. Open http://localhost:5173 in your browser to view the application.
 
 ## Usage 
 - Select the currency you want to convert from and to using the dropdown menus.
